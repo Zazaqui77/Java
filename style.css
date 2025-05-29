@@ -1,0 +1,72 @@
+/* Reset basico */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, Sans-serif;
+    background-color : #f4f4f4;
+    background-image:url(https://img.freepik.com/vetores-gratis/fundo-branco-monocromatico-de-estilo-de-papel_52683-66443.jpg?semt=ais_hybrid&w=740);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #777;
+    padding: 40px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 1000px;
+
+}
+
+.logo-topo {
+    width: 800px;
+    font-size: 48px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #004880;
+    font-size: 48px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    margin: 0 auto;
+    max-width: 1000px;
+    text-align: justify
+}
+
+hr {
+    margin: 20px; 
+
+}
+
+a {
+    font-size: 18px;
+    text-decoration: none;
+    padding: 40px;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+
+}
+
+ul {
+    border: 1px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+ol {
+    border: 1px;
+    padding: 10px;
+    margin-top: 10px;
+}
